@@ -1,1 +1,2 @@
+This is a line from branch feature-A
 This is a line from branch "feature-B".
